@@ -3,7 +3,8 @@
 <!--
 **Kendie22/Kendie22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I am Kerridene Small, a proud Jamaican immigrant and a Brooklyn nativeI. I am a daughter, sister, and friend. I have a passion for innovative tech and am practically passionate about education tech and gaming. I  live by a simple mission: “do all you can, while you can, to create, improve, and sustain positive generational changes for my community.”
+
 
 - 🔭 I’m a former educator who fell in love with programming ...
 - 🌱 I love learning and traveling...
